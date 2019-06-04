@@ -1,5 +1,5 @@
 function B = front( A, j )
-%twist: turn the half of ball on the other side, on which column j is the
+% Turn the half of ball on the other side, on which column j is the
 %furthest to the left
 %   Detailed explanation goes here
 

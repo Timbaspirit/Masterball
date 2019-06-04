@@ -1,5 +1,5 @@
 function C = createColor( A, d )
-%createColor: Create Color-Matrix for the surfplot to a Masterball with sphere(d) 
+% Create Color-Matrix for the surfplot to a Masterball with sphere(d) 
 %(where mod(d,8)==0) with configuration as described in A
 %
 

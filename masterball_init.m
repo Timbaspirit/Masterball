@@ -1,5 +1,5 @@
 function M = masterball_init( a )
-%masterball_init: Initialize and return the configuration matrix 
+% Initialize and return the configuration matrix 
 %for the solved masterball with the given side a facing to the front
 % (1 is red, 2 orange, ... , 8 purple)
 

@@ -1,5 +1,5 @@
 function A = turn( A, k )
-%turn: Permutates the columns of the matrix A cyclically k times
+% Permutates the columns of the matrix A cyclically k times
 %
 
 N = size(A,2);

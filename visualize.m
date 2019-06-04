@@ -1,5 +1,5 @@
 function [  ] = visualize( A , d )
-%visualize: Visualize the config A of the masterball in a surfplot via the
+% Visualize the config A of the masterball in a surfplot via the
 %sphere(d)
 %
 

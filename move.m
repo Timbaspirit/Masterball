@@ -1,5 +1,5 @@
 function A = move(A, s, v)
-%move: Executes configuration changes to the configuration A as specified
+% Executes configuration changes to the configuration A as specified
 %in s.
 %   Notation;
 %   f: front twist (at face 1)

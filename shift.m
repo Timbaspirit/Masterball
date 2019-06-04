@@ -1,5 +1,5 @@
 function A = shift( A, i, k )
-%Shifts the ith row of the Matrix A to the right k times.
+% Shifts the ith row of the Matrix A to the right k times.
 %   A Matrix, i row index, k shift number
 
 [M,N] = size(A);
