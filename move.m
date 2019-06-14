@@ -1,6 +1,6 @@
 function A = move(A, s, v)
 % Executes configuration changes to the configuration A as specified
-%in s.
+% in s.
 %   Notation;
 %   f: front twist (at face 1)
 %   t: top pole shift (counterclockwise if not specified)
@@ -14,9 +14,10 @@ function A = move(A, s, v)
 %   'b f bi'
 %   'l2 t f ti b f bi li2'
 
-if ~exist('v','var') %visualisation option
-    v = 1;
-end
+% Allows forgetting the visualisation parameter
+% if ~exist('v','var') %visualisation option
+%     v = 1;
+% end
 
 interval = 1; %time interval
 
